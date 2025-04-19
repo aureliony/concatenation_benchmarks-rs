@@ -2,6 +2,7 @@
 name = "concatenation_benchmarks"
 version = "0.1.0"
 authors = ["Hendrik Sollich <hendrik@hoodie.de>"]
+edition = "2024"
 
 [dependencies]
 concat-string = "1.0.1"
